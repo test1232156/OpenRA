@@ -54,7 +54,7 @@ AtreidesEntryPath = { AtreidesWaypoint.Location, AtreidesRally.Location }
 Messages =
 {
 	UserInterface.Translate("build-concrete"),
-	UserInterface.Translate("build-windtrap"),
+	UserInterface.Translate("build-wind-trap"),
 	UserInterface.Translate("build-refinery"),
 	UserInterface.Translate("build-silo")
 }
