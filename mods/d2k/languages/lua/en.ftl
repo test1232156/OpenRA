@@ -129,7 +129,7 @@ atreides-hostile = The Atreides are now hostile!
 mercenaries-annihilated = The Mercenaries have been annihilated!
 ally-mercenaries = Persuade the Mercenaries to fight alongside House Harkonnen.
 mercenary-leader-captured-allied = Leader Captured. The mercenaries have been persuaded to fight with House Harkonnen.
-can-not-stand-harkonnen-must-become-neutral = We cannot stand against the Harkonnen. We must become neutral.
+cannot-stand-harkonnen-must-become-neutral = We cannot stand against the Harkonnen. We must become neutral.
 atreides-commander = Atreides Commander
 
 ## harkonnen-09ab
