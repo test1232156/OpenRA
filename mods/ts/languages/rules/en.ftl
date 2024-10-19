@@ -94,7 +94,7 @@ actor-orcab =
 
 actor-orcatran-name = Orca Transport
 
-actor-trnsport =
+actor-transport =
    .name = Carryall
    .description = VTOL aircraft capable of lifting
     and transporting vehicles.
@@ -480,7 +480,7 @@ actor-dshp-husk-name = Dropship
 actor-orca-husk-name = Orca Fighter
 actor-orcab-husk-name = Orca Bomber
 actor-orcatran-husk-name = Orca Transport
-actor-trnsport-husk-name = Carryall
+actor-transport-husk-name = Carryall
 actor-scrin-husk-name = Banshee Fighter
 actor-apache-husk-name = Harpy
 
