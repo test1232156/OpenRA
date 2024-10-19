@@ -17,7 +17,7 @@ not-enough-silos = We don't have enough silo space to store the required amount 
 
 ## atreides-01ab, harkonnen-01ab, ordos01ab
 build-concrete = Build a concrete foundation before placing structures.
-build-windtrap = Build a Wind Trap to generate power.
+build-wind-trap = Build a Wind Trap to generate power.
 build-refinery = Build a Refinery to collect Spice.
 build-silo = Build a Silo to store additional Spice.
 
