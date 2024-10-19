@@ -300,7 +300,7 @@ actor-medic =
 
 actor-jumpjet =
    .name = Jumpjet Infantry
-   .description = Airborne soldier.
+   .description = Airborne soldiers.
       Strong vs Infantry, Aircraft
       Weak vs Vehicles
 
