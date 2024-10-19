@@ -340,8 +340,8 @@ productionpalette-player-widgets-production-palette =
    .hold = On Hold
 
 ## lobby-kickdialogs.yaml
-label-kick-client-dialog-texta = You may also apply a temporary ban, preventing
-label-kick-client-dialog-textb = them from joining for the remainder of this game.
+label-kick-client-dialog-text-a = You may also apply a temporary ban, preventing
+label-kick-client-dialog-text-b = them from joining for the remainder of this game.
 checkbox-kick-client-dialog-prevent-rejoining = Temporarily Ban
 button-kick-client-dialog = Kick
 label-kick-spectators-dialog-title = Kick Spectators
