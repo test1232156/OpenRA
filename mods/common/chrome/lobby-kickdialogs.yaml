@@ -10,14 +10,14 @@ Background@KICK_CLIENT_DIALOG:
 			Height: 25
 			Font: Bold
 			Align: Center
-		Label@TEXT-A:
+		Label@TEXTA:
 			Y: 68
 			Width: PARENT_WIDTH
 			Height: 25
 			Font: Regular
 			Align: Center
 			Text: label-kick-client-dialog-text-a
-		Label@TEXT-B:
+		Label@TEXTB:
 			Y: 86
 			Width: PARENT_WIDTH
 			Height: 25
