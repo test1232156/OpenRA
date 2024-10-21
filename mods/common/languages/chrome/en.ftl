@@ -157,7 +157,7 @@ label-script-error-panel-desc-c = Please send this file to the map author so tha
 
 ## ingame-infostats.yaml
 label-mission-objective = Mission:
-checkbox-objective-stats = Destroy all opposition!
+checkbox-stats-objective = Destroy all opposition!
 label-stats-player = Player
 label-stats-faction = Faction
 label-stats-score = Score
