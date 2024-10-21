@@ -12,7 +12,7 @@ Container@SKIRMISH_STATS:
 					Width: 80
 					Height: 20
 					Font: MediumBold
-					Text: label-objective-mission
+					Text: label-mission-objective
 				Label@STATS_STATUS:
 					X: 95
 					Y: 17
