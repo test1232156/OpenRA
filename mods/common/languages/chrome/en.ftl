@@ -156,7 +156,7 @@ label-script-error-panel-desc-b = The details of the error have been saved to lu
 label-script-error-panel-desc-c = Please send this file to the map author so that they can fix this issue.
 
 ## ingame-infostats.yaml
-label-objective-mission = Mission:
+label-mission-objective = Mission:
 checkbox-objective-stats = Destroy all opposition!
 label-stats-player = Player
 label-stats-faction = Faction
