@@ -91,14 +91,14 @@ Background@FORCE_START_DIALOG:
 			Font: Bold
 			Align: Center
 			Text: label-force-start-dialog-title
-		Label@TEXTA:
+		Label@TEXT-A:
 			Y: 68
 			Width: PARENT_WIDTH
 			Height: 25
 			Font: Regular
 			Align: Center
 			Text: label-force-start-dialog-text-a
-		Label@TEXTB:
+		Label@TEXT-B:
 			Y: 86
 			Width: PARENT_WIDTH
 			Height: 25
