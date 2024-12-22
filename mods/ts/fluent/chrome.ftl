@@ -13,20 +13,20 @@ button-replay-player-pause-tooltip = Pause
 button-replay-player-play-tooltip = Play
 
 button-replay-player-slow =
-   .tooltip = Slow speed
-   .label = 50%
+    .tooltip = Slow speed
+    .label = 50%
 
 button-replay-player-regular =
-   .tooltip = Regular speed
-   .label = 100%
+    .tooltip = Regular speed
+    .label = 100%
 
 button-replay-player-fast =
-   .tooltip = Fast speed
-   .label = 200%
+    .tooltip = Fast speed
+    .label = 200%
 
 button-replay-player-maximum =
-   .tooltip = Maximum speed
-   .label = MAX
+    .tooltip = Maximum speed
+    .label = MAX
 
 label-basic-stats-player-header = Player
 label-basic-stats-cash-header = Cash
@@ -65,8 +65,8 @@ label-mute-indicator = Audio Muted
 
 ## ingame-player.yaml
 supportpowers-support-powers-palette =
-   .ready = READY
-   .hold = ON HOLD
+    .ready = READY
+    .hold = ON HOLD
 
 button-command-bar-attack-move =
     .tooltip = Attack Move
@@ -181,8 +181,8 @@ button-top-buttons-power-tooltip = Power Down
 button-top-buttons-options-tooltip = Options
 
 productionpalette-sidebar-production-palette =
-   .ready = READY
-   .hold = ON HOLD
+    .ready = READY
+    .hold = ON HOLD
 
 button-production-types-building-tooltip = Buildings
 button-production-types-support-tooltip = Support
